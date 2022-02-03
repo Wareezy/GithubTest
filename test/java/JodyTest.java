@@ -1,7 +1,7 @@
 import org.junit.jupiter.api.*;
 
 import static org.junit.jupiter.api.Assertions.*;
-//Warren jaftha2
+//Warren jaftha
 class JodyTest {
     public Jody test1;
     public Jody test2;

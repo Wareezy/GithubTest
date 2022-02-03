@@ -1,4 +1,4 @@
-//Warren jaftha2
+//Warren jaftha
 public class Jody {
 
     private String name;
